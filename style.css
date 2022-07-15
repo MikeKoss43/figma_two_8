@@ -53,7 +53,7 @@ li::before {
 	width: 16px;
 	height: 16px;
 	display: inline-block;
-	background: url('/image/check.png') 0 0 / 16px no-repeat;
+	background: url('image/check.png') 0 0 / 16px no-repeat;
 	padding: 5px 0 0 16px;
 	
 }
